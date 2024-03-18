@@ -1,7 +1,12 @@
 # React + Vite
 
+
 To run the assigment, download the files then run the commands:
+
+
 npm install
+
+
 npm run dev
 
 
